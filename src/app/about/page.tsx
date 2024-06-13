@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
+![Samantha](blob:https://web.whatsapp.com/2d8b2f4a-b5be-415d-b76f-df99ab1ce5c0)
 
 Hi there, I'm Fachry, though I am often called El. I am 18 years old and work as an investor, trader, and full-stack developer. I created this website to document everything about her ( Suci Nur Insani ) the most beautiful woman I have ever met. She is not only the most beautiful but also the most remarkable and extraordinary woman I have ever known. 
 Through this website, I aim to express all my feelings for her and share every detail about her. I hope that my words will convey the depth of my emotions for her.`;
